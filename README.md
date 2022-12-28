@@ -1,29 +1,30 @@
+CNA_paper
+================
 
-### Render the book
+# Description
 
-- [ ] 1. Install **bookdown** with `install.packages("bookdown")`. If you already have it, update to the [latest version](https://CRAN.R-project.org/package=bookdown).
+This repository contains all code to reproduce the figures and statistics from the paper: **CNA_paper**
 
-- [ ] 2. Render locally with `bookdown::render_book("index.Rmd")`.
+# Inventory
+All code and figures are nicely ordered in the online book https://dshandel.github.io/cna_paper/
 
-- [ ] 3. Use `browseURL("docs/index.html")` to view your book locally (or just open `index.html` in a browser).
+The chapters in the book loosely follow the order in which the results are presentend in the paper.
 
-- [ ] 4. If it looks good, commit and push all changed files to GitHub. 
+1. Clinical data and dose-response correlation
+  - 1a. Clinical data
+  - 1b. *In vitro* Dose-response analysis
+  - 1c. Correlation analysis
+2. Subclonal dynamics
+3. Analysis of copy number alterations
+4. Analysis of chromosomal instability
 
-(You will need to repeat steps 2 and 4 every time you wish to update the book online.)
+# Data availability
 
-### Edit README
+Processed datasets [FILL IN]
 
-Once you've completed these steps, delete the content of this **README** and add a short description of your project with a link to the book URL. It would be appreciated if you add the following to the end:
+Raw datasets are deposited under [FILL IN]
 
-*This repo was initially generated from a bookdown template available here: https://github.com/jtr13/bookdown-template.*
+# Licence
 
-(And starring the repo would be nice too so I can see if this is getting used or not!)
-
-### Demo Video
-
-A demo video showing how to create a **bookdown book** following these instructions: http://bit.ly/fiveminutebookdown
-
-### Additional features
-
-Please consult the official guide to **bookdown**: https://bookdown.org/yihui/bookdown
+The code in this repository is licenced under The GNU General Public License v3.0
 
