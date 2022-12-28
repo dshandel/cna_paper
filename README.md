@@ -5,9 +5,9 @@ CNA_paper
 
 This repository contains all code to reproduce the figures and statistics from the paper: **CNA_paper**
 
-# Inventory
-All code and figures are nicely ordered in the online book https://dshandel.github.io/cna_paper/
+All code and figures are put together in the online book https://dshandel.github.io/cna_paper/
 
+# Inventory
 The chapters in the book loosely follow the order in which the results are presentend in the paper.
 
 1. Clinical data and dose-response correlation
