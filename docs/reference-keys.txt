@@ -1,6 +1,6 @@
 preface
-chapter-1.-clinical-data-and-dose-response-correlation
+clinical-data-and-dose-response-correlation
 a.-clinical-data
 b.-in-vitro-dose-response-analysis
 c.-correlation-analysis
-chapter-2.-subclonal-dynamics
+subclonal-dynamics

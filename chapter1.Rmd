@@ -1,7 +1,0 @@
-# Chapter 1. Clinical data and dose-response correlation
-
-## 1a. Clinical Data
-
-## 1b. *In vitro* dose-response analysis
-
-## 1c. Correlation analysis
